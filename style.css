@@ -13,6 +13,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .half-width {
@@ -36,4 +37,11 @@ section {
 .top-banner {
     background-image: url(images/cover-2.png);
     background-repeat: no-repeat;
+}
+
+.do-impossible-mission {
+    background-image: url(images/second-cover.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
